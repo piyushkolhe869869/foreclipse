@@ -10,4 +10,8 @@ class DemoApplicationTests {
 	void contextLoads() {
 	}
 
+	public void main(){
+		System.out.println("love the nature");
+	}
+
 }
